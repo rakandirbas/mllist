@@ -80,5 +80,4 @@ A list of interesting machine learning Github repositories.
 - [antingshen / BeaverDam](https://github.com/antingshen/BeaverDam) - Video annotation tool for deep learning training labels.
 - [facebookresearch / DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions.
 - [correll / Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots.
-- [iamtrask / awesome-machine-learning](https://github.com/iamtrask/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
 - [srendle / libfm](https://github.com/srendle/libfm) - Library for factorization machines.
