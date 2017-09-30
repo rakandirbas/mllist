@@ -9,3 +9,29 @@ A list of interesting machine learning Github repositories.
 - [Flownet2](https://github.com/lmb-freiburg/flownet2) - FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks
 - [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr) - PyTorch implementation of Advantage Actor Critic (A2C), Proximal Policy Optimization (PPO) and Scalable trust-region method for deep reinforcement learning using Kronecker-factored approximation (ACKTR).
 - [ZhuSuan](https://github.com/thu-ml/zhusuan) - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow.
+- [textvae](https://github.com/stas-semeniuta/textvae) - Theano code for experiments in the paper "A Hybrid Convolutional Variational Autoencoder for Text Generation."
+- [PNU](https://github.com/t-sakai-kure/PNU) - Semi-supervised classification based on positive-unlabeled classification.
+- [Trained image classification models for Keras](https://github.com/fchollet/deep-learning-models) - Keras code and weights files for popular deep learning models.
+- [mxnet-the-straight-dope](https://github.com/zackchase/mxnet-the-straight-dope) - An interactive book on deep learning. Much easy, so MXNet. Wow.
+- [deep-learning-model-convertor](https://github.com/ysh329/deep-learning-model-convertor) - The convertor/conversion of deep learning models for different deep learning frameworks/softwares.
+- [tf_texture_net](https://github.com/tgyg-jegli/tf_texture_net) - TensorFlow implementation of DmitryUlyanov/texture_nets.
+- [Rewrite](https://github.com/kaonashi-tyc/Rewrite) - Neural Style Transfer For Chinese Characters.
+- [deepflow](https://github.com/theislab/deepflow) - This code contains the neural network implementation from the nature communication manuscript NCOMMS-16-25447A.
+- [tinder-scraper](https://github.com/gcwelborn/tinder-scraper) - A Tinder Bot for Data Scientist's :hammer_and_wrench: :fire:
+- [fast-style-transfer-deeplearnjs](https://github.com/reiinakano/fast-style-transfer-deeplearnjs ) - Demo of in-browser Fast Neural Style Transfer with Deeplearn.JS library.
+- [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist) - A MNIST-like fashion product database. Benchmark :point_right:
+- [PyAono](https://github.com/OpenMined/PyAono) - A Python implementation of the homomorphic encryption scheme by Yoshinori Aono et al.
+- [ashwinkalyan / dbs](https://github.com/ashwinkalyan/dbs) - This code implements Diverse Beam Search (DBS).
+- [ethanluoyc / e2c-pytorch](https://github.com/ethanluoyc/e2c-pytorch) - E2C implementation in PyTorch.
+- [khanhptnk / bandit-nmt](https://github.com/khanhptnk/bandit-nmt) - This is code repo for our EMNLP 2017 paper "Reinforcement Learning for Bandit Neural Machine Translation with Simulated Human Feedback", which implements the A2C algorithm on top of a neural encoder-decoder model and benchmarks the combination under simulated noisy rewards.
+- [OpenNMT / OpenNMT](https://github.com/OpenNMT/OpenNMT) - Open-Source Neural Machine Translation in Torch.
+- [taivop / joke-dataset](https://github.com/taivop/joke-dataset) - A dataset of 200k English plaintext jokes.
+- [abewley / sort](https://github.com/abewley/sort) - Simple, online, and realtime tracking of multiple objects in a video sequence.
+- [albanie / mcnSSD](https://github.com/albanie/mcnSSD) - A matconvnet implementation of the Single Shot Detector.
+- [Eniac-Xie / faster-rcnn-resnet](https://github.com/Eniac-Xie/faster-rcnn-resnet) - ResNet Implementation for Faster-rcnn.
+- [hszhao / PSPNet](https://github.com/hszhao/PSPNet) - Pyramid Scene Parsing Network.
+- [QISKit / qiskit-sdk-py](https://github.com/QISKit/qiskit-sdk-py) - Python software development kit for writing quantum computing experiments, programs, and applications.
+- [1adrianb / face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch.
+- [jinwchoi / awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources.
+- []() -
+- []() -
