@@ -33,5 +33,52 @@ A list of interesting machine learning Github repositories.
 - [QISKit / qiskit-sdk-py](https://github.com/QISKit/qiskit-sdk-py) - Python software development kit for writing quantum computing experiments, programs, and applications.
 - [1adrianb / face-alignment](https://github.com/1adrianb/face-alignment) - :fire: 2D and 3D Face alignment library build using pytorch.
 - [jinwchoi / awesome-action-recognition](https://github.com/jinwchoi/awesome-action-recognition) - A curated list of action recognition and related area resources.
-- []() -
-- []() -
+- [karim-ahmed / nofe-caffe](https://github.com/karim-ahmed/nofe-caffe) - Network of Experts (NoFE) caffe implementation.
+- [yosinski / deep-visualization-toolbox](https://github.com/yosinski/deep-visualization-toolbox) - DeepVis Toolbox.
+- [lhmRyan / deep-supervised-hashing-DSH](https://github.com/lhmRyan/deep-supervised-hashing-DSH) - Deep Supervised Hashing for Fast Image Retrieval,
+- [grahamjenson / list_of_recommender_systems](https://github.com/grahamjenson/list_of_recommender_systems) - A List of Recommender Systems and Resources.
+- [znxlwm / pytorch-generative-model-collections](https://github.com/znxlwm/pytorch-generative-model-collections) - Collection of generative models in Pytorch version.
+- [gpleiss / efficient_densenet_pytorch](https://github.com/gpleiss/efficient_densenet_pytorch) - A memory-efficient implementation of DenseNets.
+- [facebookresearch / fairseq-py](https://github.com/facebookresearch/fairseq-py) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [marshq / europilot](https://github.com/marshq/europilot) - A toolkit for controlling Euro Truck Simulator 2 with python to develop self-driving algorithms.
+- [facebookresearch / Starspace](https://github.com/facebookresearch/Starspace) - Learning embeddings for classification, retrieval and ranking.
+- [eriklindernoren / ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch) - Python implementations of Machine Learning models and algorithms from scratch. Aims to cover everything from Data Mining techniques to Deep Learning.
+- [taolei87 / sru](https://github.com/taolei87/sru) - Training RNNs as Fast as CNNs.
+- [RandomAdversary / Awesome-AI-Security](https://github.com/RandomAdversary/Awesome-AI-Security) - :file_folder: #AISecurity.
+- [allenai / allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
+- [NVIDIA / DeepRecommender](https://github.com/NVIDIA/DeepRecommender) - Deep learning for recommender systems.
+- [exacity / simplified-deeplearning](https://github.com/exacity/simplified-deeplearning) - Simplified implementations of deep learning related works.
+- [katerakelly / pytorch-maml](https://github.com/katerakelly/pytorch-maml) - This is a PyTorch implementation of the supervised learning experiments from the paper Model-Agnostic Meta-Learning.
+- [fchollet / deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python".
+- [hwalsuklee / tensorflow-generative-model-collections](https://github.com/hwalsuklee/tensorflow-generative-model-collections) - Collection of generative models in Tensorflow.
+- [aymericdamien / TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners with Latest APIs.
+- [likedan / Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) - Largest list of models for Core ML (for iOS 11+)
+- [dformoso / machine-learning-mindmap](https://github.com/dformoso/machine-learning-mindmap) - A mindmap summarising Machine Learning concepts, from Data Analysis to Deep Learning.
+- [deepmind / learning-to-learn](https://github.com/deepmind/learning-to-learn) - Learning to Learn in TensorFlow.
+- [deepmind / sonnet](https://github.com/deepmind/sonnet) - TensorFlow-based neural network library.
+- [songrotek / Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap) - Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
+- [chainer / chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning.
+- [bioinf-jku / SNNs](https://github.com/bioinf-jku/SNNs) - Tutorials and implementations for "Self-normalizing networks".
+- [vahidk / EffectiveTensorflow](https://github.com/vahidk/EffectiveTensorflow) - TensorFlow tutorials and best practices.
+- [josephmisiti / awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [wush978/KDD2015wpp](https://github.com/wush978/KDD2015wpp) - Reproduce the experiments published in "Predicting Winning Price in Real Time Bidding with Censored Data".
+- [wenying45/nn_text_representation](https://github.com/wenying45/nn_text_representation) - Neural networks for text representation.
+- [richzhang / colorization](https://github.com/richzhang/colorization) - Automatic colorization using deep neural networks. "Colorful Image Colorization." In ECCV, 2016.
+- [LantaoYu / SeqGAN](https://github.com/LantaoYu/SeqGAN) - Implementation of Sequence Generative Adversarial Nets with Policy Gradient.
+- [Atomu2014/product-nets](https://github.com/Atomu2014/product-nets) - Product-based Neural Networks for User Response Prediction.
+- [han-cai / rlb-dp](https://github.com/han-cai/rlb-dp) - Real-Time Bidding by Reinforcement Learning in Display Advertising.
+- [LantaoYu / MARL-Papers](https://github.com/LantaoYu/MARL-Papers) - Paper list of multi-agent reinforcement learning (MARL).
+- [PAIR-code / deeplearnjs](https://github.com/PAIR-code/deeplearnjs) - A hardware-accelerated deep learning library for the web.
+- [elena-sharova / HiddenMarkovModel](https://github.com/elena-sharova/HiddenMarkovModel) - Example implementation of a discrete 1st order Hidden Markov model with test.
+- [ageitgey / face_recognition](https://github.com/ageitgey/face_recognition) - The world's simplest facial recognition api for Python and the command line.
+- [lyst / lightfm](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
+- [Mendeley / mrec](https://github.com/Mendeley/mrec) - A recommender systems development and evaluation package by Mendeley.
+- [guoguibing / librec](https://github.com/guoguibing/librec) - LibRec: A Leading Java Library for Recommender Systems.
+- [quora / qmf](https://github.com/quora/qmf) - A fast and scalable C++ library for implicit-feedback matrix factorization models.
+- [benfred / implicit](https://github.com/benfred/implicit) - Fast Python Collaborative Filtering for Implicit Datasets.
+- [SheffieldML / GPyOpt](https://github.com/SheffieldML/GPyOpt) - Gaussian Process Optimization using GPy.
+- [antingshen / BeaverDam](https://github.com/antingshen/BeaverDam) - Video annotation tool for deep learning training labels.
+- [facebookresearch / DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions.
+- [correll / Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots.
+- [iamtrask / awesome-machine-learning](https://github.com/iamtrask/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software.
+- [srendle / libfm](https://github.com/srendle/libfm) - Library for factorization machines.
