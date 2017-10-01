@@ -81,3 +81,4 @@ A list of interesting machine learning Github repositories.
 - [facebookresearch / DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions.
 - [correll / Introduction-to-Autonomous-Robots](https://github.com/correll/Introduction-to-Autonomous-Robots) - Introduction to Autonomous Robots.
 - [srendle / libfm](https://github.com/srendle/libfm) - Library for factorization machines.
+- [OpenMined/PySyft](https://github.com/OpenMined/PySyft) - The goal of this library is to give the user the ability to efficiently train Deep Learning models in a homomorphically encrypted state without needing to be an expert in either.
